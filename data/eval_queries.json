@@ -1,0 +1,14 @@
+[
+  {
+    "query": "How does async I/O reduce latency?",
+    "expected": "overlap independent network operations"
+  },
+  {
+    "query": "What is TTFT?",
+    "expected": "time before the first streamed token"
+  },
+  {
+    "query": "Why use FAISS?",
+    "expected": "similarity search over dense vectors"
+  }
+]
